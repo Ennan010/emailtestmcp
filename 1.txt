@@ -1,0 +1,2 @@
+uv run src/gmail/server.py --creds-file-path D:/DevlopProjects/test6/gmail-mcp-server-main/credential.json --token-path D:/DevlopProjects/test6/gmail-mcp-server-main/token.json
+npx @modelcontextprotocol/inspector uv run src/gmail/server.py --creds-file-path D:/DevlopProjects/test6/gmail-mcp-server-main/credential.json --token-path D:/DevlopProjects/test6/gmail-mcp-server-main/token.json
